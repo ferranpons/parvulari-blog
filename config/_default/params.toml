@@ -9,7 +9,7 @@ logo_width = "150px"
 logo_text = "El Parvulari"
 # OpenGraph / Twitter Card metadata
 description = "El portal per a Gamers que no tenen temps per jugar"
-author = "Frigú"
+author = "Ferran"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # main sections
 mainSections = ["blog"]
@@ -24,7 +24,7 @@ custom_script= ""
 [author_block]
 title= "EL PARVULARI"
 image= "images/author.jpg"
-content= "El blog per a \"Gamers\" despistats que tenen certa edat i que no tenen temps ni per jugar ni per seguir la voràgine de l'actualitat. Anem al nostre rotllo, parlant del que ens interesa, quan volem."
+content= "El blog en Català per a \"Gamers\" despistats que tenen certa edat i que no tenen temps ni per jugar ni per seguir la voràgine de l'actualitat. Anem al nostre rotllo, parlant del que ens interesa, quan volem."
 
 # Preloader
 [preloader]
