@@ -1,0 +1,56 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x"
+logo_width = "150px"
+# logo text will only show when logo is missing.
+logo_text = "El Parvulari"
+# OpenGraph / Twitter Card metadata
+description = "El portal per a Gamers que no tenen temps per jugar"
+author = "Frigú"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# main sections
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright text
+copyright = "Copyright 2022"
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# author
+[author_block]
+title= "EL PARVULARI"
+image= "images/author.jpg"
+content= "El blog per a \"Gamers\" despistats que tenen certa edat i que no tenen temps ni per jugar ni per seguir la voràgine de l'actualitat. Anem al nostre rotllo, parlant del que ens interesa, quan volem."
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+############################# social site ########################
+#[[social]]
+#icon = "fab fa-facebook-f"
+#link = "#"
+
+#[[social]]
+#icon = "fab fa-twitter"
+#link = "#"
+
+#[[social]]
+#icon = "fab fa-instagram"
+#link = "#"
+
+#[[social]]
+#icon = "fab fa-dribbble"
+#link = "#"

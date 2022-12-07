@@ -1,0 +1,30 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+name = "home"
+url = ""
+weight = 1
+
+[[main]]
+name = "blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+name = "Categoríes"
+url = "categories/"
+weight = 3
+
+[[main]]
+name = "Qui Som"
+url = "about/"
+weight = 4
+
+#[main]]
+#name = "Contacta"
+#url = "contact/"
+#weight = 5
+
+

@@ -1,0 +1,4 @@
+baseURL = 'http://parvulari.com/'
+languageCode = 'ca-es'
+title = 'El Parvulari'
+theme = 'techfeed-hugo'
