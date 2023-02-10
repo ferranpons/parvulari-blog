@@ -1,5 +1,5 @@
 ---
-title: "Unpopular_opinion_wanted_weapons_of_fate_es_un_bon_videojoc"
+title: "Unpopular Opinion: 'Wanted: Weapons of fate' és un joc disfrutable i divertit"
 date: 2023-02-10T16:00:00+01:00
 image: "images/wanted_weapons_of_fate.jpg"
 featured: true
