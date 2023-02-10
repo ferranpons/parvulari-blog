@@ -9,7 +9,7 @@ logo_width = "150px"
 logo_text = "El Parvulari"
 # OpenGraph / Twitter Card metadata
 description = "El portal per a Gamers que no tenen temps per jugar"
-author = "Frigú"
+author = "Ferran"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # main sections
 mainSections = ["blog"]
