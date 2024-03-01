@@ -5,4 +5,4 @@ _site/
 .idea/
 .hugo_build.lock
 ./resources/_gen
-/themes/techfeed-hugo
+./themes/techfeed-hugo

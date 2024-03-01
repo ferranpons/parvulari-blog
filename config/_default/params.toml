@@ -16,7 +16,7 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
-copyright = "Copyright 2022"
+copyright = "Copyright © 2022-2024 El Parvulari."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 
@@ -33,10 +33,10 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 2
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Fem servir cookies (pròpies i de tercers) per assegurar el correcte funcionament de la web, analitzar l’audiència i oferir continguts i publicitat personalitzats. Les cookies analítiques ens permeten obtenir dades agregades amb finalitat estadística per avaluar i reportar el grau de compliment dels nostres objectius de servei públic. Per aquest motiu les considerem essencials i no refusables.."
+button = "Accepto"
 
 ############################# social site ########################
 #[[social]]
